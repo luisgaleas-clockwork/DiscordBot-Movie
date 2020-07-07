@@ -1,0 +1,25 @@
+{
+  "name": "discordbot-ms",
+  "version": "1.0.0",
+  "description": "Discord bot that types movie script in the chat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisgaleas-clockwork/DiscordBot-MS.git"
+  },
+  "author": "Luis A. Galeas Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisgaleas-clockwork/DiscordBot-MS/issues"
+  },
+  "homepage": "https://github.com/luisgaleas-clockwork/DiscordBot-MS#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "node": "^14.5.0",
+    "nodemon": "^2.0.4"
+  }
+}
