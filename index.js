@@ -15,7 +15,6 @@ client.on('message', msg => {
   if (msg.content === 'ping') {
     msg.channel.send('pong')
     .then(() => msg.react('677372200864710656'))
-
   }
 });
 
